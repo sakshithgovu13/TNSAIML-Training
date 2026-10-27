@@ -1,0 +1,1 @@
+Optional: place a verified aqi.csv here with columns PM2.5, PM10, NO2, SO2, CO, O3, Temperature, Humidity, AQI.\n

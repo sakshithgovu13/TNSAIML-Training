@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+aqi_predictions.db
+data/aqi.csv
+models/*.joblib
+models/evaluation.json
+.env
+*.sqlite
